@@ -1,4 +1,4 @@
-## introduction
+## Introduction
 
 AI.JSX is a framework for building AI applications using Javascript and JSX. It assists dealing with _prompt engineering_, _Document Question + Answering_, and the use of external APIs - all commponents used in building LLM applicaations. 
 
@@ -8,7 +8,7 @@ The Fixie Console, accessible at https://console.fixie.ai, is the web interface 
 
 **[This repository](https://github.com/adriatic/redwood-ai)** documents the creation, deployment and maintenance of several types of Fixie sidekicks - embeddable conversational assistants (also called agents) that can be integrated alongside your RedwoodJS application under development. Typically such assistant is a part of your application that offers online help. RedwoodJS framework users (application developers) would today often visit the RedwoodJS [online help application](https://redwoodjs.com/docs/index) site, which is manually assembled by RedwoodJS team, using the [Docusaurus tool](https://docusaurus.io/). This tool's motto is **_ship a beautiful documentation site in no time_**.
 
-The most likely reason to use a Fixie sidekick at this (early AI) time, is to _**create a LLM based application**_ that offers online help for the application you are developing - in this context a full replacement of Docusaurus
+The most likely reason to use a Fixie sidekick at this (early AI) time, is to _**create a LLM based application**_ that offers online help for the application you are developing. 
 
 As stated in [Getting Started with Fixie](https://fixie.ai/docs/getting-started), Fixie framework consists of several components:
 
