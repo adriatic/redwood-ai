@@ -25,3 +25,12 @@ How valuable is this approach: in my view it is pretty useful - as it is more po
 
 <img width="1878" alt="image" src="https://github.com/adriatic/redwood-ai/assets/2712405/a1573038-91b9-44d2-99df-2370d53c95ce">
 
+**Note: a very easy improvement here is to merge the Git-Github Corpus with Redwood Corpus, allowing this upgraded agent to help with Redwood as well as with Github**
+
+<img width="943" alt="image" src="https://github.com/adriatic/redwood-ai/assets/2712405/38f154a9-18ba-4e1f-855a-1d9cd8ddc5f2">
+
+
+### Stage 2
+#### Visual Studio Code with RW-Fixie extension
+
+
